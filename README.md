@@ -1,1 +1,1 @@
-This Python script, order_items.py, is designed to generate a CSV file containing order item data. This CSV file can subsequently be loaded into a PostgreSQL database for further analysis or storage.
+These Python Python scripts generates CSV files containing structured data that can be used to practice working with PostgreSQL or MySQL databases. The generated data can be easily imported into your database tables and subsequently used for data analysis and manipulation with PySpark, Polars, and Pandas.

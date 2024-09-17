@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,shipping_address,shipping_city,shipping_state,shipping_zip_code,shipping_country,order_status
+4000000,1000079,2022-03-24,"682 Henry Well Apt. 928
+Harrisonfort, KS 35148",Port Tonyaview,Kentucky,96367,Greece,Delivered
+4000001,1000016,2022-03-29,"65801 Heather Stream
+Lake Davidland, FL 33479",Powellmouth,Kentucky,34030,Romania,Shipped
+4000002,1000068,2022-04-03,"9247 Christopher Pass Apt. 996
+Paultown, PA 79593",South Shawnburgh,Kansas,96980,Jersey,Delivered
+4000003,1000023,2022-03-05,"05745 Jenkins Park Suite 487
+East Daniel, MN 39520",North Walterburgh,Alaska,67141,Liechtenstein,Shipped
+4000004,1000034,2022-02-21,"951 Sloan Oval
+Millermouth, PA 08717",New Johnville,Utah,12989,Bulgaria,Delivered
+4000005,1000014,2022-03-02,"8373 Kayla Fords Suite 307
+East Eric, TN 95983",Crystalshire,Pennsylvania,62504,Netherlands Antilles,Pending
+4000006,1000063,2022-02-17,"469 Lee Run
+Port Mark, MP 60737",Marktown,California,69159,French Polynesia,Pending
+4000007,1000092,2022-04-04,"971 Kelly Radial
+Knightborough, ND 90817",Lawsonhaven,Minnesota,76564,Djibouti,Pending
+4000008,1000072,2022-02-17,"14372 Michael Glens Suite 609
+Lake Emily, GA 38623",East Jodyland,Oklahoma,48053,Mali,Shipped
+4000009,1000044,2022-02-14,"764 Samantha Rapid
+Watsonport, HI 36355",Rebeccaside,Alaska,25980,New Caledonia,Pending
+4000010,1000046,2022-01-17,"87975 John Point Suite 918
+North Michelle, SC 78084",Vasquezport,South Carolina,92238,Saint Vincent and the Grenadines,Pending
+4000011,1000011,2021-12-29,"5486 Murphy Trace Suite 875
+Port Dana, NJ 87881",Phillipsborough,Colorado,80444,Slovakia (Slovak Republic),Shipped
+4000012,1000051,2022-04-02,"158 Tiffany Center
+Nealport, MN 71982",Victoriaton,Nebraska,68507,Puerto Rico,Delivered
+4000013,1000009,2022-03-27,"10809 Chelsea Common Suite 742
+Brianborough, NC 73103",Roymouth,North Carolina,54389,Malaysia,Delivered
+4000014,1000043,2022-01-10,"47096 Mark Ports
+New Jennifer, NJ 69352",Crosbytown,Kentucky,88359,Iran,Delivered
+4000015,1000058,2022-03-13,"97588 Fields Meadows Suite 406
+Jasonburgh, GA 45403",Lake Eduardomouth,Michigan,83079,Burundi,Pending
+4000016,1000045,2022-03-21,"64049 Jessica Passage Apt. 017
+Jeffreyhaven, RI 57250",Jamesbury,Oklahoma,07993,Madagascar,Pending
+4000017,1000073,2022-03-25,"3699 Branch Mount
+East Adamfurt, IL 84495",East Derekmouth,New Mexico,31607,Anguilla,Delivered
+4000018,1000058,2022-03-30,"770 Ford Fields
+West Danieltown, KS 32628",Fishermouth,Kentucky,25641,Madagascar,Pending
+4000019,1000067,2022-01-09,"502 Daniels Union
+Sarahaven, NH 11912",New Marissa,Maine,80946,Indonesia,Shipped
+4000020,1000018,2022-02-21,"956 Trevor Harbor Apt. 944
+Haileyburgh, AR 68388",West Jason,Oregon,55887,Micronesia,Pending
+4000021,1000004,2022-02-10,"2221 Tammy Tunnel Suite 737
+North Ashley, UT 51585",Sierrachester,South Carolina,36833,Cyprus,Pending
+4000022,1000087,2022-01-06,"830 Deleon Road Apt. 645
+Jeffreystad, MO 71519",West Reneeside,West Virginia,40830,Belarus,Pending
+4000023,1000009,2021-12-30,"12254 William Overpass
+South Jonathan, PW 50092",Lake Debra,Montana,25386,Guinea-Bissau,Pending
+4000024,1000059,2022-03-10,"613 Blake Locks
+North Thomasmouth, WI 30330",East Jessica,Connecticut,46803,Botswana,Delivered
+4000025,1000027,2022-02-16,"93488 Timothy Mission Apt. 191
+New Jeremy, SC 20308",Gloriaberg,Illinois,45645,Brunei Darussalam,Delivered
+4000026,1000048,2022-03-05,"908 Amy Shoal Apt. 375
+North Nicholas, MH 13791",Brenttown,Wyoming,04425,Argentina,Shipped
+4000027,1000079,2021-12-28,"Unit 8375 Box 3169
+DPO AP 32270",Williamschester,Kentucky,24712,Liechtenstein,Shipped
+4000028,1000044,2022-01-04,"25244 Thomas Key Suite 986
+Savagetown, MI 63629",North Rachael,Colorado,59708,Burundi,Pending
+4000029,1000096,2022-03-10,"5715 Clark Harbors Suite 393
+New Shannon, VA 94813",Nolanhaven,Delaware,28180,Belize,Shipped
+4000030,1000067,2021-12-31,"10540 Stephen Mountains Suite 203
+New Rebecca, MH 86437",Vaughnmouth,Vermont,60977,Canada,Delivered
+4000031,1000064,2022-01-06,"7562 Angela Landing
+Stanleymouth, WV 55785",South Cindyview,Utah,88919,New Zealand,Shipped
+4000032,1000010,2022-01-05,"8977 Stephen Mount
+West Kevin, GA 80658",West Shaun,Hawaii,30313,Egypt,Delivered
+4000033,1000054,2022-03-02,"462 Jensen Shores Suite 434
+South Ashleehaven, MI 74891",South Sarah,Pennsylvania,27761,American Samoa,Delivered
+4000034,1000008,2022-01-19,"Unit 8747 Box 3188
+DPO AP 00981",Nicolemouth,Oregon,52922,Poland,Delivered
+4000035,1000055,2022-03-26,"46166 Rodriguez Summit Suite 911
+Lake Sierrashire, UT 48669",New Lisa,Colorado,54210,Cook Islands,Delivered
+4000036,1000069,2022-03-19,"3788 Zachary Estates Suite 734
+Brianshire, AZ 77680",South Caroline,Kansas,80825,Kazakhstan,Delivered
+4000037,1000055,2022-01-03,"Unit 6615 Box 0892
+DPO AE 42011",Port Shane,Vermont,06414,China,Delivered
+4000038,1000075,2022-02-06,"5732 James Turnpike
+Robertville, VI 46015",Adamton,Nebraska,49661,Gambia,Delivered
+4000039,1000093,2022-03-29,"17519 Johnson Village Apt. 965
+Port Debrashire, ME 23788",Timothyside,Connecticut,73760,Liechtenstein,Pending
+4000040,1000009,2022-01-23,"7562 Bryan Light
+Davisside, KS 99151",Carrollfort,Vermont,59573,Macao,Shipped
+4000041,1000017,2022-02-01,"805 Charles Plains Apt. 741
+East Juan, NE 95060",West Bruceberg,North Dakota,99440,Comoros,Delivered
+4000042,1000028,2022-01-26,"85733 Holloway Junctions Apt. 947
+Donaldchester, MT 21351",Pattersontown,Utah,28874,Barbados,Delivered
+4000043,1000048,2022-04-01,"466 Thomas Lock
+East Mackenzieport, HI 20810",Joseton,Missouri,88735,India,Delivered
+4000044,1000067,2022-04-13,"3489 Hale Ville
+Lake Brianview, MD 06321",South Kenneth,Hawaii,96326,Antarctica (the territory South of 60 deg S),Delivered
+4000045,1000053,2022-02-05,"183 Yesenia Knoll Suite 039
+Hendersonville, OR 81948",New Alicia,Arizona,39293,India,Delivered
+4000046,1000080,2022-02-17,"63436 Jennifer Light Suite 955
+West Morganchester, AK 18839",Halltown,West Virginia,59037,Ireland,Pending
+4000047,1000039,2022-01-27,"3797 Joe Trail Apt. 921
+East Barbara, TN 15177",West Shane,Wyoming,83268,Martinique,Pending
+4000048,1000043,2022-02-08,"0870 Victor Avenue Apt. 353
+East Courtneyton, OK 19371",West Roberttown,Iowa,75798,Macao,Shipped
+4000049,1000022,2022-03-13,"54540 Hoover Ville
+New Jessica, KY 05591",East Jacob,Oregon,83623,Palestinian Territory,Shipped
+4000050,1000030,2022-02-02,"83035 Johnson Key
+East Gail, AS 97739",West Travis,North Carolina,89176,Syrian Arab Republic,Delivered
+4000051,1000062,2022-02-23,"1784 Adams Road Apt. 146
+Alexisland, AL 48169",Joshuafurt,New Mexico,62462,French Southern Territories,Delivered
+4000052,1000069,2022-03-07,"0804 Lewis Fords
+Stoutburgh, ID 16854",West Ashley,Connecticut,35155,United States Virgin Islands,Delivered
+4000053,1000029,2022-04-10,"484 Sharon Rest Suite 637
+Katherineside, KY 80180",Mccartyburgh,North Carolina,78068,Martinique,Shipped
+4000054,1000096,2022-01-03,"859 Mcdaniel Pass
+Vanessafurt, AR 79282",Fitzpatrickview,Indiana,14041,Mayotte,Shipped
+4000055,1000047,2022-03-30,"67068 Woods Pines
+East Andrewfurt, TN 46725",East Blake,Idaho,51147,Turks and Caicos Islands,Delivered
+4000056,1000077,2022-02-03,"507 Sanders Turnpike Suite 292
+East Jeffrey, CA 94971",Manningburgh,Hawaii,33449,Trinidad and Tobago,Shipped
+4000057,1000067,2022-02-23,"937 Robinson Stravenue Suite 976
+Rodriguezburgh, GA 05189",West Michaelland,South Carolina,11857,Cambodia,Delivered
+4000058,1000072,2022-03-18,"336 Willis Square Apt. 587
+Vazquezton, TX 63099",Cainview,Alaska,81898,Madagascar,Pending
+4000059,1000087,2022-01-17,"951 Crystal Plain
+New Joshuachester, NM 11393",West Laurenstad,New Mexico,02551,United Kingdom,Pending
+4000060,1000010,2022-01-19,"22441 Christina Springs
+Shelbyside, OR 03127",Cassandraton,Maryland,03850,Pakistan,Shipped
+4000061,1000042,2022-01-19,"USS Gray
+FPO AA 61094",Cheyenneburgh,Massachusetts,21761,United States Minor Outlying Islands,Pending
+4000062,1000020,2022-04-11,"4989 Christopher Falls Suite 442
+Chenberg, PW 72033",Clarkstad,Hawaii,76086,Norway,Shipped
+4000063,1000016,2022-04-09,"2216 Lisa Pines
+Christophertown, GA 05679",East Alanland,Delaware,23691,Kuwait,Shipped
+4000064,1000087,2022-02-05,"PSC 5240, Box 7097
+APO AP 89604",Dunnhaven,Massachusetts,36825,Swaziland,Shipped
+4000065,1000012,2022-03-23,"2164 Dickerson Center Apt. 302
+Samanthahaven, LA 67585",Port Lisatown,Texas,17951,United Arab Emirates,Shipped
+4000066,1000073,2022-02-20,"59373 Brown Burg
+West April, NE 49864",Fischerchester,West Virginia,24154,Czech Republic,Delivered
+4000067,1000018,2022-01-03,"66614 Hooper Islands
+West Jennifer, OH 45961",Riveraville,Wyoming,26931,Puerto Rico,Delivered
+4000068,1000044,2022-02-08,"862 Louis Locks
+Cannonstad, SC 30906",Davidborough,New Mexico,13349,Moldova,Delivered
+4000069,1000029,2022-03-24,"94190 Johnson Bridge Apt. 292
+West Felicia, GA 12039",Katherinemouth,Arkansas,72435,Micronesia,Shipped
+4000070,1000036,2022-01-12,"510 Bryan Springs Apt. 410
+Lake Linda, AL 48009",Williamston,Wyoming,97127,Fiji,Delivered
+4000071,1000009,2022-04-07,"03152 Stuart Overpass
+East Julie, GA 79039",West Lindseyhaven,Montana,44048,British Indian Ocean Territory (Chagos Archipelago),Delivered
+4000072,1000069,2022-02-09,"928 Gibson Lock
+Port Raymond, FM 68245",Allenmouth,Rhode Island,73067,Western Sahara,Shipped
+4000073,1000040,2022-01-21,"7995 Valdez Cove Apt. 033
+South Matthew, SD 37101",Williamsport,Utah,32525,Jordan,Pending
+4000074,1000095,2022-01-08,"4088 Erin Wells
+West Nicholas, MP 69073",Rickyview,Minnesota,73944,Namibia,Pending
+4000075,1000049,2022-01-21,"6680 Karen Plaza Apt. 974
+Fostermouth, MT 36939",Michaelside,Indiana,38913,El Salvador,Pending
+4000076,1000001,2022-03-28,"USS Parker
+FPO AP 98714",Mckeeburgh,New Hampshire,15693,Tajikistan,Shipped
+4000077,1000044,2022-02-10,"47829 Annette Parkways
+East Kevin, IA 16794",Kimville,Virginia,55507,Germany,Delivered
+4000078,1000096,2022-04-01,"046 Boyd Keys Apt. 312
+West Jill, ME 40240",South Davidburgh,Oklahoma,29108,Western Sahara,Pending
+4000079,1000032,2022-02-22,"08955 Steven Garden Suite 633
+Perezland, NV 55308",Masonchester,Delaware,58411,Philippines,Shipped
+4000080,1000090,2022-03-27,"13945 Colleen Spurs
+Erinbury, MH 77122",New John,Iowa,26227,North Macedonia,Shipped
+4000081,1000041,2022-03-27,"87816 Hall Islands
+North Daniel, PA 51442",Romerotown,Connecticut,18265,French Guiana,Shipped
+4000082,1000076,2022-01-11,"98869 Young Green
+South Rachelmouth, MS 87304",Lake Elizabethberg,Florida,71784,Hong Kong,Shipped
+4000083,1000085,2022-04-12,"47340 Mcneil Stravenue
+East Margaretfurt, NY 63363",Wilsonborough,Ohio,13739,Isle of Man,Pending
+4000084,1000058,2021-12-30,"0304 Megan Mall
+Lake Nicole, VT 63291",West Elizabeth,Nevada,75184,French Guiana,Shipped
+4000085,1000086,2022-02-19,"967 Young Burgs Suite 205
+New Lauren, FL 25530",Ritterland,Massachusetts,81828,Uruguay,Shipped
+4000086,1000067,2022-01-04,"859 Campos Port
+New Stephen, RI 24694",East Jennifertown,Nebraska,28392,Maldives,Shipped
+4000087,1000090,2022-01-29,"632 Cuevas Cliffs
+Port Larry, KS 97922",Stacyborough,Wyoming,80032,Luxembourg,Shipped
+4000088,1000051,2022-04-07,"1323 Carlos Gateway Suite 837
+Hannahchester, OH 40945",West Emilyview,Maine,26202,Gibraltar,Pending
+4000089,1000099,2022-03-17,"1601 Julia Station Apt. 851
+East Misty, WY 48384",New Waltershire,North Dakota,49042,Sao Tome and Principe,Pending
+4000090,1000071,2022-02-08,"16748 Heidi Fort Apt. 041
+Jenniferville, NH 11221",Ortizborough,New Hampshire,55125,Zambia,Pending
+4000091,1000053,2022-01-11,"913 Gordon Oval Suite 335
+Tammyfort, TN 87487",Port Jerry,Wyoming,60750,Suriname,Delivered
+4000092,1000008,2022-01-02,"7222 Fleming Trail
+Port Christy, OK 23859",North Melvinburgh,Pennsylvania,60203,Cocos (Keeling) Islands,Pending
+4000093,1000063,2022-02-15,"22234 Rebecca Unions Apt. 297
+Port David, UT 14582",Parkschester,Nevada,74888,New Zealand,Pending
+4000094,1000076,2022-02-08,"3230 Margaret Burgs Apt. 327
+Lake Ralphville, FL 51693",Jasonburgh,Georgia,57302,Saint Martin,Shipped
+4000095,1000009,2022-02-09,"6297 Angela Skyway Apt. 520
+Reyeshaven, UT 18779",Justinmouth,Mississippi,39913,India,Shipped
+4000096,1000068,2022-02-02,"602 Gomez Turnpike Apt. 023
+Thomasfurt, AK 91139",Patriciamouth,Idaho,52943,Mauritania,Delivered
+4000097,1000031,2022-02-02,"829 Mia Streets
+Terranceborough, VA 02187",West Valerieport,Oklahoma,59791,Zambia,Pending
+4000098,1000053,2021-12-29,"6425 Jason Rapids Suite 763
+West Jeremiahtown, MO 32040",Nunezfort,Wyoming,37173,Bahrain,Pending
+4000099,1000002,2022-01-30,"35680 Meadows Plains Apt. 667
+New Sheilafurt, GU 62519",New Alexandra,Mississippi,26210,Bangladesh,Shipped
